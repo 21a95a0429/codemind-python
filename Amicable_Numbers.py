@@ -14,5 +14,4 @@ if n==C and m==c:
     print('Amicable')
 else:
     print('Not Amicable')
-        
-        
+    
